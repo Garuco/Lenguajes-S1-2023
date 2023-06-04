@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zSDFkeEMIqmpK8r8feI7MHMujh37NReKfNSCKk1gwzFiqFuqkRi0hKaqRS3mZpwNGxu/z5SyuzAfKfsEPEjlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabog\\Documents\\Gabo\\TEC\\S1 2023\\Lenguajes\\Repositorio\\Funcional\\Ejercicio4\\Ejercicio4\\Ejercicio4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabog\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
